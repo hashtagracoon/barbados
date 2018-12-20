@@ -4,21 +4,48 @@
 	https://en.wikipedia.org/wiki/Outline_of_computer_programming#Popular_languages
 100 Philosophy
 	https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6#%E7%90%86%E8%AB%96
-	/*
-	110 Metaphysics
-	120 Epistemology
-	130 Parapsychology & occultism
-	140 Philosophical schools of thought
-		141 Idealism & related systems & doctrines
-		142 Critical philosophy
-		143 Bergsonism & intuitionism
-		144 Humanism & related systems & doctrines
-		145 Sensationalism
-		146 Naturalism & related systems & doctrines
-		147 Pantheism & related systems & doctrines
-		148 Dogmatism, eclecticism, liberalism, syncretism, & traditionalism
-	*/
 150 Psychology
 	https://en.wikipedia.org/wiki/Outline_of_psychology#Branches_of_psychology
 200 Religion
+	https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%AE%97%E6%95%99%E5%88%97%E8%A1%A8
+300 Social sciences
+	https://en.wikipedia.org/wiki/Outline_of_social_science#Branches_of_social_science 中，只使用:
+	Anthropology
+	Business studies
+	Civics
+	Cognitive Science 
+	Criminology 
+	Cultural studies 
+	Demography 
+	Development studies 
+	Economics 
+	Education
+	Environmental studies 
+	Gender and sexuality studies 
+	Geography 
+	Gerontology 
+	History 
+	Industrial relations 
+	Information science 
+	International studies 
+	Law 
+	Legal management 
+	Library science 
+	Linguistics 
+	Management 
+	Media studies 
+	Planning
+	Political science
+	Public administration 
+	Social work
+	Sustainable development
+	Sustainability studies 
+350 Military science
+
+	
+	
+	
+	
+	
+		
 	
