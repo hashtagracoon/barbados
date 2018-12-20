@@ -1,0 +1,24 @@
+000 Computer science
+	https://en.wikipedia.org/wiki/Outline_of_computer_science#Subfields
+005 Computer programming
+	https://en.wikipedia.org/wiki/Outline_of_computer_programming#Popular_languages
+100 Philosophy
+	https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6#%E7%90%86%E8%AB%96
+	/*
+	110 Metaphysics
+	120 Epistemology
+	130 Parapsychology & occultism
+	140 Philosophical schools of thought
+		141 Idealism & related systems & doctrines
+		142 Critical philosophy
+		143 Bergsonism & intuitionism
+		144 Humanism & related systems & doctrines
+		145 Sensationalism
+		146 Naturalism & related systems & doctrines
+		147 Pantheism & related systems & doctrines
+		148 Dogmatism, eclecticism, liberalism, syncretism, & traditionalism
+	*/
+150 Psychology
+	https://en.wikipedia.org/wiki/Outline_of_psychology#Branches_of_psychology
+200 Religion
+	
