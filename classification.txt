@@ -41,6 +41,42 @@
 	Sustainable development
 	Sustainability studies 
 350 Military science
+500 Science
+	510 Mathematics
+	https://en.wikipedia.org/wiki/Outline_of_mathematics#Subjects
+	520 Astronomy
+	https://en.wikipedia.org/wiki/Outline_of_astronomy#Branches_of_astronomy
+	530 Physics
+	https://en.wikipedia.org/wiki/Outline_of_physics#Branches_of_physics
+	540 Chemistry
+	https://en.wikipedia.org/wiki/Outline_of_chemistry#Branches_of_chemistry
+	550 Earth sciences & geology
+	https://en.wikipedia.org/wiki/Earth_science#Fields_of_study
+	560 Fossils & prehistoric life
+	570 Biology
+	https://en.wikipedia.org/wiki/Biology#Branches
+	580 Plants
+	590 Animals (Zoology)
+600 Technology
+	610 Medicine
+	https://en.wikipedia.org/wiki/Outline_of_medicine#Branches_of_medicine
+	620 Engineering
+	https://en.wikipedia.org/wiki/Outline_of_engineering#Branches_of_Engineering
+	630 Agriculture
+	https://en.wikipedia.org/wiki/Outline_of_agriculture#Branches_of_agriculture
+	640 Home & family management
+		641 Food & drink
+		642 Meals & table service
+		643 Housing & household equipment
+		644 Household utilities
+		645 Household furnishings
+		646 Sewing, clothing, management of personal and family life
+		647 Management of public households (Institutional housekeeping)
+		648 Housekeeping
+		649 Child rearing; home care of people with disabilities & illnesses
+	660 Chemical engineering
+	https://en.wikipedia.org/wiki/Outline_of_chemical_engineering#Branches_of_chemical_engineering
+	
 
 	
 	
