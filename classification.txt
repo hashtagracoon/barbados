@@ -76,7 +76,24 @@
 		649 Child rearing; home care of people with disabilities & illnesses
 	660 Chemical engineering
 	https://en.wikipedia.org/wiki/Outline_of_chemical_engineering#Branches_of_chemical_engineering
-	
+	670 Manufacturing
+		672 Iron, steel, other iron alloys
+		673 Nonferrous metals
+		674 Lumber processing, wood products, cork
+		675 Leather & fur processing
+		676 Pulp & paper technology
+		677 Textiles
+		678 Elastomers & elastomer products
+		681 Precision instruments & other devices
+		682 Small forge work (Blacksmithing)
+		683 Hardware & household appliances
+		684 Furnishings & home workshops
+		685 Leather & fur goods, & related products
+		686 Printing & related activities
+		687 Clothing & accessories
+		688 Other final products, & packaging technology
+	690 Construction of buildings
+700 Arts
 
 	
 	
