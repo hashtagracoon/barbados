@@ -117,7 +117,19 @@
 	
 	Performing arts
 		dance
+		http://www.dancefacts.net/dance-types/types-of-dances/
 		music
+			Classical music
+			https://en.wikipedia.org/wiki/Classical_music
+			Pop music
+			https://en.wikipedia.org/wiki/List_of_popular_music_genres#Genres
+			Instruments
+				Preccusion
+				https://www.ranker.com/list/woodwind-instrument-instruments-in-this-family/reference
+				https://www.ranker.com/list/brass-instrument-instruments-in-this-family/reference
+				https://www.ranker.com/list/string-instrument-instruments-in-this-family/reference
+				https://en.wikipedia.org/wiki/List_of_musical_instruments#Electronic_instruments_(electrophones)
+				piano
 		opera
 		theatre and musical theatre
 		magic
