@@ -94,11 +94,38 @@
 		688 Other final products, & packaging technology
 	690 Construction of buildings
 700 Arts
-
+	Visual arts
+		ceramics
+		drawing
+		painting
+		sculpture
+		printmaking
+		design
+		crafts
+		photography
+		video
+		filmmaking
+		architecture
+	art movements
+	https://en.wikipedia.org/wiki/List_of_art_movements
 	
+	Literary arts
+	https://en.wikipedia.org/wiki/List_of_writing_genres
+	https://en.wikipedia.org/wiki/Outline_of_literature#Forms_of_literature
+	literary movements
+	https://en.wikipedia.org/wiki/List_of_literary_movements
 	
+	Performing arts
+		dance
+		music
+		opera
+		theatre and musical theatre
+		magic
+		illusion
+		mime
+		spoken word
+		puppetry
+		circus arts
+		performance art
 	
-	
-	
-		
 	
