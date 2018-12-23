@@ -125,10 +125,16 @@
 			Music theory
 			Musicology
 			
+			https://en.wikipedia.org/wiki/Outline_of_music#Musical_ensembles
+			
+			https://en.wikipedia.org/wiki/List_of_music_styles
+			
+			/*
 			Classical music
 			https://en.wikipedia.org/wiki/Classical_music
 			Pop music
 			https://en.wikipedia.org/wiki/List_of_popular_music_genres#Genres
+			*/
 			Instruments
 				Vocal music
 				https://www.ebay.com.au/b/Musical-Instruments/619/bn_1843439
