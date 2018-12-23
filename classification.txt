@@ -119,17 +119,34 @@
 		dance
 		http://www.dancefacts.net/dance-types/types-of-dances/
 		music
+			Musical compositions
+			Music technology
+			Music industry
+			Music theory
+			Musicology
+			
 			Classical music
 			https://en.wikipedia.org/wiki/Classical_music
 			Pop music
 			https://en.wikipedia.org/wiki/List_of_popular_music_genres#Genres
 			Instruments
+				Vocal music
+				https://www.ebay.com.au/b/Musical-Instruments/619/bn_1843439
+				Guitars & Basses
+					Electric Guitars, Acoustic Guitars, Bass Guitars, Classical Guitars, Electro-Acoustic Guitars, Cigar Box Guitars, Lap & Pedal Steel Guitars, Resonator
 				Preccusion
-				https://www.ranker.com/list/woodwind-instrument-instruments-in-this-family/reference
-				https://www.ranker.com/list/brass-instrument-instruments-in-this-family/reference
-				https://www.ranker.com/list/string-instrument-instruments-in-this-family/reference
+				Pianos, Keyboards & Organs
+					Pianos, Electronic Keyboards, Organs, Accordions, Harmoniums, Concertinas
+				String Instruments
+					Violins, Cellos, Double Bass, Violas, Ukuleles, Banjos, Mandolins, Harps, Sitars, Erhus, Bouzoukis, Mandolas, Autoharps, Zithers, Ouds, Guzhengs, Lutes, Sazs
+				Wind & Woodwind Instruments
+					Saxophones, Flutes, Clarinets, Recorders, Oboes, Piccolos, Bassoons, 
+					Harmonicas, Bagpipes, Didgeridoos, Ocarinas, Whistles, Melodicas, 
+					Shakuhachis, Hulusis, Panflutes, Dizis, Neys, Kavals
+				Brass Instruments
+					Trumpets, Trombones, Cornets, Bugles, French Horns, Tubas, Flugelhorns, Euphoniums, 
+					Sousaphones, Tenor Horns
 				https://en.wikipedia.org/wiki/List_of_musical_instruments#Electronic_instruments_(electrophones)
-				piano
 		opera
 		theatre and musical theatre
 		magic
@@ -138,6 +155,5 @@
 		spoken word
 		puppetry
 		circus arts
-		performance art
 	
 	
