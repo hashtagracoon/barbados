@@ -154,12 +154,41 @@
 					Sousaphones, Tenor Horns
 				https://en.wikipedia.org/wiki/List_of_musical_instruments#Electronic_instruments_(electrophones)
 		opera
-		theatre and musical theatre
+		theatre
+			https://en.wikipedia.org/wiki/Theatre#Types
 		magic
 		illusion
 		mime
 		spoken word
 		puppetry
 		circus arts
-	
+790 Sports
+	https://en.wikipedia.org/wiki/List_of_sports
+790 Games
+	board games
+	https://en.wikipedia.org/wiki/List_of_board_games
+	card games
+	dice games
+	https://en.wikipedia.org/wiki/List_of_dice_games
+	Domino and tile games
+	Pencil and paper games
+	Guessing games
+	Party games
+	Video game
+		genres
+		https://en.wikipedia.org/wiki/Video_game_genre#Popularity
+		erotic video games
+		arcade video games
+		horror video games
+		
+		Online game
+		
+		https://en.wikipedia.org/wiki/Video_game#Platforms
+	traditional children's games
+790 Entertainment
+	https://en.wikipedia.org/wiki/Outline_of_entertainment#Types_of_entertainment
+hobbies
+	https://en.wikipedia.org/wiki/List_of_hobbies
+
+800 Literature, rhetoric & criticism
 	
