@@ -115,6 +115,15 @@
 	literary movements
 	https://en.wikipedia.org/wiki/List_of_literary_movements
 	
+	810 American literature 
+	820 English & Old English literatures
+	830 German & related literatures
+	840 French & related literatures
+	850 Italian, Romanian, & related literatures
+	860 Spanish, Portuguese, Galician literatures
+	870 Latin & Italic literatures
+	880 Classical & modern Greek literatures
+	
 	Performing arts
 		dance
 		http://www.dancefacts.net/dance-types/types-of-dances/
