@@ -3,11 +3,12 @@
 005 Computer programming
 	https://en.wikipedia.org/wiki/Outline_of_computer_programming#Popular_languages
 100 Philosophy
-	https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6#%E7%90%86%E8%AB%96
+	https://en.wikipedia.org/wiki/List_of_schools_of_philosophy
 150 Psychology
 	https://en.wikipedia.org/wiki/Outline_of_psychology#Branches_of_psychology
 200 Religion
-	https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%AE%97%E6%95%99%E5%88%97%E8%A1%A8
+	http://www.adherents.com/Religions_By_Adherents.html
+	// https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%AE%97%E6%95%99%E5%88%97%E8%A1%A8
 300 Social sciences
 	https://en.wikipedia.org/wiki/Outline_of_social_science#Branches_of_social_science 中，只使用:
 	Anthropology
@@ -103,9 +104,9 @@
 		design
 		crafts
 		photography
-		video
 		filmmaking
 		architecture
+		Computer art
 	art movements
 	https://en.wikipedia.org/wiki/List_of_art_movements
 	
